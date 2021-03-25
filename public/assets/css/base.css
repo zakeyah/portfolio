@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 
@@ -135,6 +135,7 @@ input, select, textarea {
 
 		h2.alt {
 			color: #888;
+			font-family: 'Courgette', cursive;
 		}
 
 			h2.alt strong {
