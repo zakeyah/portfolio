@@ -1026,7 +1026,7 @@
     }
   
     @media screen and (max-width: 960px) {
-  
+      
       .row {
         display: flex;
         flex-wrap: wrap;
